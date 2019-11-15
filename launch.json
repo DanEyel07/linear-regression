@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "helloworld.exe",
+            "program": "linearregression.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
